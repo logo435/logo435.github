@@ -1,0 +1,19 @@
+body {
+    background: lightblue;
+    font-family: 'Raleway', sans-serif;
+}
+img {
+	display: block
+	height:250px;
+	width:auto;
+}
+
+
+img {
+	display:block;
+}
+
+
+#title {
+	 background:red;
+}
